@@ -1,5 +1,5 @@
 # Articles
 Impressive article list
 
-## [Front End Articles](FrontEnd)
-## [Back End Articles](BackEnd)
+## [Front End](FrontEnd)
+## [Back End](BackEnd)
