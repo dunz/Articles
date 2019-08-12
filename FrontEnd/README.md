@@ -11,6 +11,7 @@
 
 ## Vue
 - [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
+- [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
 
