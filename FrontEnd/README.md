@@ -18,6 +18,9 @@
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
 
+## Css
+- [Sass(SCSS) 완전 정복!](https://heropy.blog/2018/01/31/sass/)
+
 ## Resource
 - [data URL vs Image file / 2018. 01. 07](https://mygumi.tistory.com/282)
 - [메모리 캐시 vs 디스크 캐시 / 2017. 12. 23](https://mygumi.tistory.com/275)
