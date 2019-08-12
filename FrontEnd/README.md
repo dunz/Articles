@@ -1,7 +1,6 @@
 # Front End Articles
 
 ## Optimization
-
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
 ## ECMA Script
@@ -11,6 +10,7 @@
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
 
 ## Vue
+- [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
 
