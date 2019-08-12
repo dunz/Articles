@@ -4,7 +4,7 @@
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
 ## Webpack
-- [Smaller Lodash bundles with Webpack and Babel](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
+- [Smaller Lodash bundles with Webpack and Babel / 2018. 03. 20](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
 
 ## ECMA Script
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
