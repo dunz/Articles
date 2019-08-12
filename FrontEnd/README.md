@@ -11,8 +11,8 @@
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
 
 ## Vue
-
-- [Using v-model on Nested Vue Components / 2018. 11 . 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
+- [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
+- [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
 
 ## Resource
 - [data URL vs Image file / 2018. 01. 07](https://mygumi.tistory.com/282)
