@@ -18,6 +18,7 @@
 - [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
+- [Build a Basic CRUD App with Vue.js and Node / 2018. 02. 15](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
 ## Css
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
