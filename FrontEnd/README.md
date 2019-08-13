@@ -4,7 +4,9 @@
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
 ## Webpack
+- [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
 - [Smaller Lodash bundles with Webpack and Babel / 2018. 03. 20](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
+- [Tree shake Lodash with Webpack, Jest and Typescript / 2017. 06. 19](https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd)
 
 ## ECMA Script
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
@@ -13,7 +15,6 @@
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
 
 ## Vue
-- [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
 - [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
