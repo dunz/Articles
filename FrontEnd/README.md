@@ -29,3 +29,6 @@
 - [메모리 캐시 vs 디스크 캐시 / 2017. 12. 23](https://mygumi.tistory.com/275)
 - [Base64 encoding and decoding](https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/Base64_encoding_and_decoding)
 - [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
+
+## App
+- [TRACKIT에서 딥링크를 사용하는 방법 / 2019. 07. 10](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
