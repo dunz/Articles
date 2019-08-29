@@ -44,3 +44,7 @@
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
 - [object-fit-images](https://github.com/fregante/object-fit-images) - Polyfill object-fit/object-position on `<img>`: IE9, IE10, IE11, Edge, Safari, ...
+
+## Tools
+- [Flat UI Palette v1](https://flatuicolors.com/palette/defo) - 280 handpicked colors ready for COPY & PASTE
+- [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
