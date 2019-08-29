@@ -26,6 +26,7 @@
 
 ## Html
 - [Using ARIA / 2018. 09. 27](https://www.w3.org/TR/using-aria/#rule1)
+- [Cropping Images in CSS With object-fit](https://alligator.io/css/cropping-images-object-fit/)
 
 ## Resource
 - [data URL vs Image file / 2018. 01. 07](https://mygumi.tistory.com/282)
