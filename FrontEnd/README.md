@@ -35,3 +35,6 @@
 
 ## App
 - [TRACKIT에서 딥링크를 사용하는 방법 / 2019. 07. 10](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
+
+## Blog
+- [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
