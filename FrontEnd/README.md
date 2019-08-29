@@ -39,3 +39,6 @@
 
 ## Blog
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
+
+## Polyfills
+- [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
