@@ -23,6 +23,7 @@
 
 ## Css
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
+- [🚫 안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
 ## Html
 - [Using ARIA / 2018. 09. 27](https://www.w3.org/TR/using-aria/#rule1)
