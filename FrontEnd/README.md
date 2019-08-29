@@ -42,3 +42,4 @@
 
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
+- [object-fit-images](https://github.com/fregante/object-fit-images) - Polyfill object-fit/object-position on `<img>`: IE9, IE10, IE11, Edge, Safari, ...
