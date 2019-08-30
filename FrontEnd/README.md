@@ -21,6 +21,7 @@
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
 - [Build a Basic CRUD App with Vue.js and Node / 2018. 02. 15](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 - [Model-based Form Validation with Vue.js and Vuelidate / 2017. 02. 15](https://alligator.io/vuejs/model-form-validation-vuelidate/)
+- [Vue.js + TypeScript 앱에서 IoC 컨테이너 사용하기 / 2017. 03. 21](https://blog.aliencube.org/ko/2017/03/21/using-ioc-container-in-vuejs-typescript-app/)
 
 ## Css
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
