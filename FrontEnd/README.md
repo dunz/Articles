@@ -13,6 +13,7 @@
 
 ## Type Script
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ## Vue
 - [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
