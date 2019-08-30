@@ -24,6 +24,7 @@
 - [Vue.js + TypeScript 앱에서 IoC 컨테이너 사용하기 / 2017. 03. 21](https://blog.aliencube.org/ko/2017/03/21/using-ioc-container-in-vuejs-typescript-app/)
 - [Combining Vue, TypeScript and RxJS with Vue-Rx / 2018. 10. 30](https://codeburst.io/combining-vue-typescript-and-rxjs-with-vue-rx-a084d60b6eac)
 - [Vue 앱 접근성/SEO 가이드북](https://yamoo9.gitbook.io/vue-a11y-seo/)
+- [라우트 메타 필드](https://router.vuejs.org/kr/guide/advanced/meta.html)
 
 ## Css
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
