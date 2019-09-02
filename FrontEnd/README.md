@@ -14,6 +14,7 @@
 ## Type Script
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+- [타입 스크립트 의존성 주입 : TS 프로젝트에 InversifyJS IoC 설정 / 2018. 07. 09](https://itnext.io/typescript-dependency-injection-setting-up-inversifyjs-ioc-for-a-ts-project-f25d48799d70)
 
 ## Vue
 - [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
