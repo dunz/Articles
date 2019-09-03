@@ -10,6 +10,7 @@
 
 ## ECMA Script
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+- [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
 
 ## Type Script
 - [What does 'declare' do in 'export declare class Actions'? / 2016. 01. 26](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
