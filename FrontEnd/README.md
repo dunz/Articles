@@ -3,6 +3,9 @@
 ## Optimization
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
+## npm
+- [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
+
 ## Webpack
 - [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
 - [Smaller Lodash bundles with Webpack and Babel / 2018. 03. 20](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
