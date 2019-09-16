@@ -51,6 +51,12 @@
 ## App
 - [TRACKIT에서 딥링크를 사용하는 방법 / 2019. 07. 10](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
 
+## Windows
+- [Moving Your JavaScript Development To Bash On Windows / 2019. 09. 11](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/)
+
+## Interview
+- [프론트엔드 개발자 인터뷰 후기 면접질문 정리](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
+
 ## Blog
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
 
@@ -61,3 +67,4 @@
 ## Tools
 - [Flat UI Palette v1](https://flatuicolors.com/palette/defo) - 280 handpicked colors ready for COPY & PASTE
 - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
+- [percy - Your all-in-one visual review platform](https://percy.io/)
