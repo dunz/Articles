@@ -69,7 +69,9 @@
 ## Tools
 - [Flat UI Palette v1](https://flatuicolors.com/palette/defo) - 280 handpicked colors ready for COPY & PASTE
 - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
-- [percy - Your all-in-one visual review platform](https://percy.io/)
+- [percy](https://percy.io/) - Your all-in-one visual review platform
+- [pixbay](https://pixabay.com/ko/) - 놀라운 무료 이미지
+
 
 ## Site
 - [toptal - Hire the Top 3% of Freelance Talent](https://www.toptal.com/)
