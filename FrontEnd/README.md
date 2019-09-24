@@ -32,6 +32,7 @@
 - [Model-based Form Validation with Vue.js and Vuelidate / 2017. 02. 15](https://alligator.io/vuejs/model-form-validation-vuelidate/)
 - [Vue.js + TypeScript 앱에서 IoC 컨테이너 사용하기 / 2017. 03. 21](https://blog.aliencube.org/ko/2017/03/21/using-ioc-container-in-vuejs-typescript-app/)
 - [Combining Vue, TypeScript and RxJS with Vue-Rx / 2018. 10. 30](https://codeburst.io/combining-vue-typescript-and-rxjs-with-vue-rx-a084d60b6eac)
+- [Creating Custom Inputs With Vue.js / 2017. 08. 01](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 - [Vue 앱 접근성/SEO 가이드북](https://yamoo9.gitbook.io/vue-a11y-seo/)
 - [라우트 메타 필드](https://router.vuejs.org/kr/guide/advanced/meta.html)
 
@@ -73,7 +74,6 @@
 - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 - [percy](https://percy.io/) - Your all-in-one visual review platform
 - [pixbay](https://pixabay.com/ko/) - 놀라운 무료 이미지
-
 
 ## Site
 - [toptal - Hire the Top 3% of Freelance Talent](https://www.toptal.com/)
