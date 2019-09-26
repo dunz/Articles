@@ -64,6 +64,7 @@
 
 ## Blog
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
+- [javascript medium blog](https://medium.com/topic/javascript) - javascript medium blog
 
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
@@ -74,6 +75,3 @@
 - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
 - [percy](https://percy.io/) - Your all-in-one visual review platform
 - [pixbay](https://pixabay.com/ko/) - 놀라운 무료 이미지
-
-## Site
-- [toptal - Hire the Top 3% of Freelance Talent](https://www.toptal.com/)
