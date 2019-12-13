@@ -6,6 +6,9 @@
 ## npm
 - [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 
+## git
+- [Git 계정 여러 개 동시 사용하기 / 2019. 06. 08](https://blog.outsider.ne.kr/1448)
+
 ## Webpack
 - [프론트엔드 개발환경의 이해: 웹팩(기본 / 2019. 12. 10.)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
 - [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
