@@ -7,6 +7,7 @@
 - [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 
 ## Webpack
+- [프론트엔드 개발환경의 이해: 웹팩(기본 / 2019. 12. 10.)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
 - [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
 - [Smaller Lodash bundles with Webpack and Babel / 2018. 03. 20](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
 - [Tree shake Lodash with Webpack, Jest and Typescript / 2017. 06. 19](https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd)
