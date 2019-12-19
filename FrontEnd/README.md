@@ -16,6 +16,7 @@
 - [Tree shake Lodash with Webpack, Jest and Typescript / 2017. 06. 19](https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd)
 
 ## ECMA Script
+- [A practical guide to Javascript Proxy / 2019. 05. 16](https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0)
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
 - [브라우저 확장하기 카카오발표 / 2018. 08. 29](https://mk.kakaocdn.net/dn/if-kakao/conf2019/conf_video_2019/1_104_02_m1.mp4)
 - [자바스크립트는 어떻게 작동하는가: 웹어셈블리와의 비교 + 언제 웹어셈블리를 사용하는 게 좋은가 / 2018. 05. 25.](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-%EC%96%B8%EC%A0%9C-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B0%80-cf48a576ca3)
