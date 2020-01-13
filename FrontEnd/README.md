@@ -90,3 +90,6 @@
 - [percy](https://percy.io/) - Your all-in-one visual review platform
 - [pixbay](https://pixabay.com/ko/) - 놀라운 무료 이미지
 - [csslayout.io](https://csslayout.io/) - css layout 작성법 참고 사이트
+
+## MDN
+- [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
