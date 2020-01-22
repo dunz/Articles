@@ -71,7 +71,12 @@
 ## Test
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 
-## Stack Over Flow
+## Git
+- [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
+- [훅으로 Git에 훅 들어가기 / 2017. 07. 12.](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+- [Git hook when a new branch is created and/or pushed / 2017](https://stackoverflow.com/questions/14297606/git-hook-when-a-new-branch-is-created-and-or-pushed)
+- [Git: Git hooks 적용하기 / 2014. 02. 18.](https://ohgyun.com/639)
+- [Git: pre-commit 훅에서 변경된 파일 확인하기. 2014. 02. 14.](https://ohgyun.com/630)
 
 ## Interview
 - [프론트엔드 개발자 인터뷰 후기 면접질문 정리 / 2018. 11. 17](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
@@ -91,6 +96,11 @@
 - [percy](https://percy.io/) - Your all-in-one visual review platform
 - [pixbay](https://pixabay.com/ko/) - 놀라운 무료 이미지
 - [csslayout.io](https://csslayout.io/) - css layout 작성법 참고 사이트
+
+## Guide
+- [Stream editor guide](https://mug896.github.io/sed-stream-editor/)
+- [Bash shell guide](https://mug896.github.io/bash-shell)
+- [누구나 쉽게 할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
