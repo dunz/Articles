@@ -105,6 +105,7 @@
 - [Stream editor guide](https://mug896.github.io/sed-stream-editor/)
 - [Bash shell guide](https://mug896.github.io/bash-shell)
 - [누구나 쉽게 할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
+- [GraphQL 공식 가이드](https://graphql-kr.github.io/)
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
