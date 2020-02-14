@@ -29,6 +29,7 @@
 - [[자바스크립트] 정규식(Regular Expressions) / 2017. 02. 08.](https://beomy.tistory.com/21#recentEntries)
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
 - [[JavaScript] Cookie 생성, 삭제 및 읽어오기 / 2018. 09. 03.](http://magic.wickedmiso.com/72)
+- [테스트](https://ui.toast.com/fe-guide/ko_TEST/#selenium-webdriver)
 
 ## Type Script
 - [Writing readable code with TypeScript enums / 2019. 03. 13](https://blog.logrocket.com/writing-readable-code-with-typescript-enums-a84864f340e9/)
