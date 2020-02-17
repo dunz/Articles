@@ -110,6 +110,7 @@
 - [Bash shell guide](https://mug896.github.io/bash-shell)
 - [누구나 쉽게 할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
 - [GraphQL 공식 가이드](https://graphql-kr.github.io/)
+- [Git 공식 가이드](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
