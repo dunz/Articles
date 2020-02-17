@@ -84,6 +84,7 @@
 - [Git hook when a new branch is created and/or pushed / 2017](https://stackoverflow.com/questions/14297606/git-hook-when-a-new-branch-is-created-and-or-pushed)
 - [Git: Git hooks 적용하기 / 2014. 02. 18.](https://ohgyun.com/639)
 - [Git: pre-commit 훅에서 변경된 파일 확인하기. 2014. 02. 14.](https://ohgyun.com/630)
+- [3.6 Git 브랜치 - Rebase 하기](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Rebase-%ED%95%98%EA%B8%B0)
 
 ## Interview
 - [프론트엔드 개발자 인터뷰 후기 면접질문 정리 / 2018. 11. 17](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
