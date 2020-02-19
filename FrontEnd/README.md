@@ -94,6 +94,7 @@
 ## Blog
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
 - [javascript medium blog](https://medium.com/topic/javascript) - javascript medium blog
+- [제로초 블로그](https://www.zerocho.com/)
 
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
