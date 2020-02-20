@@ -78,6 +78,8 @@
 
 ## Test
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/)
+- [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/)
 
 ## Git
 - [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
