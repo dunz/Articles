@@ -31,7 +31,6 @@
 - [[자바스크립트] 정규식(Regular Expressions) / 2017. 02. 08.](https://beomy.tistory.com/21#recentEntries)
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
 - [[JavaScript] Cookie 생성, 삭제 및 읽어오기 / 2018. 09. 03.](http://magic.wickedmiso.com/72)
-- [테스트](https://ui.toast.com/fe-guide/ko_TEST/#selenium-webdriver)
 - [ECMAScript 6 프록시와 리플렉션 API / 2018. 02. 27](https://infoscis.github.io/2018/02/27/ecmascript-6-proxies-and-the-reflection-api/)
 
 ## Type Script
@@ -80,6 +79,8 @@
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 - [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/)
+- [테스트](https://ui.toast.com/fe-guide/ko_TEST/#selenium-webdriver)
+- [The hidden power of Jest matchers / 2017. 01. 10](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
 
 ## Git
 - [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
