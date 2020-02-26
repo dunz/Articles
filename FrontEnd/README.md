@@ -55,6 +55,7 @@
 - [Creating Custom Inputs With Vue.js / 2017. 08. 01](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)
 - [Vue 앱 접근성/SEO 가이드북](https://yamoo9.gitbook.io/vue-a11y-seo/)
 - [라우트 메타 필드](https://router.vuejs.org/kr/guide/advanced/meta.html)
+- [Tips for building fast and light Vue.js SPA](https://www.binarcode.com/blog/tips-for-building-lighter-and-more-performant-vuejs-spa/)
 
 ## Css
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
