@@ -79,10 +79,11 @@
 
 ## Test
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
+- [Sinon.js의 spy, stub, mock 의 Best Practice / 2018. 03. 19](https://tiffany.devpools.kr/2018/03/19/sinon/)
+- [The hidden power of Jest matchers / 2017. 01. 10](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 - [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/)
 - [테스트](https://ui.toast.com/fe-guide/ko_TEST/#selenium-webdriver)
-- [The hidden power of Jest matchers / 2017. 01. 10](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
 
 ## Git
 - [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
