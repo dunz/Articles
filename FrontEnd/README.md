@@ -78,6 +78,7 @@
 - [Moving Your JavaScript Development To Bash On Windows / 2019. 09. 11](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/)
 
 ## Test
+- [Jest .fn() and .spyOn() spy/stub/mock assertion reference / 2019. 11. 05](https://codewithhugo.com/jest-fn-spyon-stub-mock/)
 - [[Jest] jest.mock() 모듈 모킹 / 2019. 10. 19](https://www.daleseo.com/jest-mock-modules/)
 - [[Jest] jest.fn(), jest.spyOn() 함수 모킹 / 2019. 03. 09](https://www.daleseo.com/jest-fn-spy-on/)
 - [Jest로 테스트 전/후 처리하기 / 2019. 02. 02](https://www.daleseo.com/jest-before-after/)
