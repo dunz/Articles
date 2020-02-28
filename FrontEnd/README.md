@@ -80,6 +80,8 @@
 ## Test
 - [[Jest] jest.mock() 모듈 모킹 / 2019. 10. 19](https://www.daleseo.com/jest-mock-modules/)
 - [[Jest] jest.fn(), jest.spyOn() 함수 모킹 / 2019. 03. 09](https://www.daleseo.com/jest-fn-spy-on/)
+- [Jest로 테스트 전/후 처리하기 / 2019. 02. 02](https://www.daleseo.com/jest-before-after/)
+- [Jest로 비동기 코드 테스트 작성하기 / 2019. 01. 26](https://www.daleseo.com/jest-async/)
 - [Jest로 기본적인 테스트 작성하기 / 2019. 01. 12](https://www.daleseo.com/jest-basic/)
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 - [Sinon.js의 spy, stub, mock 의 Best Practice / 2018. 03. 19](https://tiffany.devpools.kr/2018/03/19/sinon/)
