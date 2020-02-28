@@ -78,6 +78,8 @@
 - [Moving Your JavaScript Development To Bash On Windows / 2019. 09. 11](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/)
 
 ## Test
+- [[Jest] jest.mock() 모듈 모킹 / 2019. 10. 19](https://www.daleseo.com/jest-mock-modules/)
+- [[Jest] jest.fn(), jest.spyOn() 함수 모킹 / 2019. 03. 09](https://www.daleseo.com/jest-fn-spy-on/)
 - [JavaScript Testing Tool - Jest / 2018. 11. 11](https://velog.io/@yesdoing/JavaScript-Testing-Tool-Jest-opjocpva77)
 - [Sinon.js의 spy, stub, mock 의 Best Practice / 2018. 03. 19](https://tiffany.devpools.kr/2018/03/19/sinon/)
 - [The hidden power of Jest matchers / 2017. 01. 10](https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0)
