@@ -7,6 +7,7 @@
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
 ## npm
+- [What are peer dependencies in a Node module? 2019. 12. 12](https://flaviocopes.com/npm-peer-dependencies/)
 - [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json / 2015. 11. 28](https://programmingsummaries.tistory.com/385)
 - [Types of dependencies](https://classic.yarnpkg.com/en/docs/dependency-types/)
