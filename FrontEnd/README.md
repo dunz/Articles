@@ -9,6 +9,7 @@
 ## npm
 - [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json / 2015. 11. 28](https://programmingsummaries.tistory.com/385)
+- [Types of dependencies](https://classic.yarnpkg.com/en/docs/dependency-types/)
 
 ## git
 - [Git 계정 여러 개 동시 사용하기 / 2019. 06. 08](https://blog.outsider.ne.kr/1448)
