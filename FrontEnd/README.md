@@ -5,6 +5,7 @@
 
 ## Optimization
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
+- [나도 오늘부터 FE성능 전문가!](https://sculove.github.io/slides/tobeAnAnalyst/#/1)
 
 ## npm
 - [What are peer dependencies in a Node module? 2019. 12. 12](https://flaviocopes.com/npm-peer-dependencies/)
