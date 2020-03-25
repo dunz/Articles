@@ -27,6 +27,7 @@
 ## ECMA Script
 - [A practical guide to Javascript Proxy / 2019. 05. 16](https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0)
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+- [[JavaScript] Check if a variable is a type of an Object or Array? / 2019. 03. 01](https://medium.com/@amandeepkochhar/javascript-check-if-a-variable-is-a-type-of-an-object-or-array-9a590c152f8f)
 - [Static Properties in JavaScript Classes with Inheritance / 2018. 11. 07.](https://thecodebarbarian.com/static-properties-in-javascript-with-inheritance)
 - [[JavaScript] Cookie 생성, 삭제 및 읽어오기 / 2018. 09. 03.](http://magic.wickedmiso.com/72)
 - [브라우저 확장하기 카카오발표 / 2018. 08. 29](https://mk.kakaocdn.net/dn/if-kakao/conf2019/conf_video_2019/1_104_02_m1.mp4)
