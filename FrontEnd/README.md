@@ -37,6 +37,7 @@
 - [Vanilla Two-Way Binding in JavaScript / 2017. 10. 25](https://medium.com/better-programming/js-vanilla-two-way-binding-5a29bc86c787)
 - [[자바스크립트] 정규식(Regular Expressions) / 2017. 02. 08.](https://beomy.tistory.com/21#recentEntries)
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
+- [Perpetual Currying in JavaScript / 2019. 02. 18](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
 
 ## Type Script
 - [Indexing objects in TypeScript / 2019. 05. 21](https://dev.to/kingdaro/indexing-objects-in-typescript-1cgi)
