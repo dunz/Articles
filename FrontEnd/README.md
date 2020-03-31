@@ -5,6 +5,7 @@
 
 ## Optimization
 - [I Used The Web For A Day On A 50 MB Budget / 2019. 07. 29](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
+- [나도 오늘부터 FE성능 전문가!](https://sculove.github.io/slides/tobeAnAnalyst/#/1)
 
 ## npm
 - [What are peer dependencies in a Node module? 2019. 12. 12](https://flaviocopes.com/npm-peer-dependencies/)
@@ -27,15 +28,16 @@
 - [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
 - [A practical guide to Javascript Proxy / 2019. 05. 16](https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0)
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+- [[JavaScript] Check if a variable is a type of an Object or Array? / 2019. 03. 01](https://medium.com/@amandeepkochhar/javascript-check-if-a-variable-is-a-type-of-an-object-or-array-9a590c152f8f)
+- [즐겁고 유익한 자바스크립트 프록시 사용방법 / 2018. 11. 20](https://github.com/FEDevelopers/tech.description/wiki/%EC%A6%90%EA%B2%81%EA%B3%A0-%EC%9C%A0%EC%9D%B5%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
 - [Static Properties in JavaScript Classes with Inheritance / 2018. 11. 07.](https://thecodebarbarian.com/static-properties-in-javascript-with-inheritance)
 - [[JavaScript] Cookie 생성, 삭제 및 읽어오기 / 2018. 09. 03.](http://magic.wickedmiso.com/72)
 - [브라우저 확장하기 카카오발표 / 2018. 08. 29](https://mk.kakaocdn.net/dn/if-kakao/conf2019/conf_video_2019/1_104_02_m1.mp4)
 - [자바스크립트는 어떻게 작동하는가: 웹어셈블리와의 비교 + 언제 웹어셈블리를 사용하는 게 좋은가 / 2018. 05. 25.](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-%EC%96%B8%EC%A0%9C-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B0%80-cf48a576ca3)
+- [ECMAScript 6 프록시와 리플렉션 API / 2018. 02. 27](https://infoscis.github.io/2018/02/27/ecmascript-6-proxies-and-the-reflection-api/)
 - [Vanilla Two-Way Binding in JavaScript / 2017. 10. 25](https://medium.com/better-programming/js-vanilla-two-way-binding-5a29bc86c787)
 - [[자바스크립트] 정규식(Regular Expressions) / 2017. 02. 08.](https://beomy.tistory.com/21#recentEntries)
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
-- [[JavaScript] Cookie 생성, 삭제 및 읽어오기 / 2018. 09. 03.](http://magic.wickedmiso.com/72)
-- [ECMAScript 6 프록시와 리플렉션 API / 2018. 02. 27](https://infoscis.github.io/2018/02/27/ecmascript-6-proxies-and-the-reflection-api/)
 
 ## Type Script
 - [Indexing objects in TypeScript / 2019. 05. 21](https://dev.to/kingdaro/indexing-objects-in-typescript-1cgi)
@@ -63,6 +65,7 @@
 - [Tips for building fast and light Vue.js SPA](https://www.binarcode.com/blog/tips-for-building-lighter-and-more-performant-vuejs-spa/)
 
 ## Css
+- [CSS Houdini의 실용적 개요 / 2020. 03. 19](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
 - [🚫 안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
@@ -130,6 +133,7 @@
 - [누구나 쉽게 할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
 - [GraphQL 공식 가이드](https://graphql-kr.github.io/)
 - [Git 공식 가이드](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
