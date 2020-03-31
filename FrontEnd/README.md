@@ -25,7 +25,6 @@
 - [Tree shake Lodash with Webpack, Jest and Typescript / 2017. 06. 19](https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd)
 
 ## ECMA Script
-- [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
 - [A practical guide to Javascript Proxy / 2019. 05. 16](https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0)
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
 - [[JavaScript] Check if a variable is a type of an Object or Array? / 2019. 03. 01](https://medium.com/@amandeepkochhar/javascript-check-if-a-variable-is-a-type-of-an-object-or-array-9a590c152f8f)
@@ -38,6 +37,10 @@
 - [Vanilla Two-Way Binding in JavaScript / 2017. 10. 25](https://medium.com/better-programming/js-vanilla-two-way-binding-5a29bc86c787)
 - [[자바스크립트] 정규식(Regular Expressions) / 2017. 02. 08.](https://beomy.tistory.com/21#recentEntries)
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
+
+## Regular Expressions
+- [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
+- [정규표현식 전후방 탐색 2012. 12. 27](https://blog.hexabrain.net/205)
 
 ## Type Script
 - [Indexing objects in TypeScript / 2019. 05. 21](https://dev.to/kingdaro/indexing-objects-in-typescript-1cgi)
@@ -115,6 +118,7 @@
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
 - [javascript medium blog](https://medium.com/topic/javascript) - javascript medium blog
 - [제로초 블로그](https://www.zerocho.com/)
+- [끝나지 않는 프로그래밍 일기](https://blog.hexabrain.net/)
 
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
