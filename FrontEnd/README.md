@@ -39,6 +39,10 @@
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
 - [Perpetual Currying in JavaScript / 2019. 02. 18](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
 
+## Regular Expressions
+- [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
+- [정규표현식 전후방 탐색 2012. 12. 27](https://blog.hexabrain.net/205)
+
 ## Type Script
 - [Indexing objects in TypeScript / 2019. 05. 21](https://dev.to/kingdaro/indexing-objects-in-typescript-1cgi)
 - [Writing readable code with TypeScript enums / 2019. 03. 13](https://blog.logrocket.com/writing-readable-code-with-typescript-enums-a84864f340e9/)
@@ -115,6 +119,7 @@
 - [alligator.io](https://alligator.io/) - Front-End Web Development, Chewed Up
 - [javascript medium blog](https://medium.com/topic/javascript) - javascript medium blog
 - [제로초 블로그](https://www.zerocho.com/)
+- [끝나지 않는 프로그래밍 일기](https://blog.hexabrain.net/)
 
 ## Polyfills
 - [Picturefill](https://scottjehl.github.io/picturefill/) - A RESPONSIVE IMAGE POLYFILL
