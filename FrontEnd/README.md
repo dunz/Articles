@@ -103,6 +103,7 @@
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 - [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/)
 - [테스트](https://ui.toast.com/fe-guide/ko_TEST/#selenium-webdriver)
+- [Best kept Jest secret: Testing only changed files with coverage reports](https://medium.com/@stipsan/best-kept-jest-secret-testing-only-changed-files-with-coverage-reports-3affc8b4d30f)
 
 ## Git
 - [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
@@ -143,5 +144,3 @@
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
-
-test
