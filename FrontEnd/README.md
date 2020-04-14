@@ -25,6 +25,9 @@
 - [Smaller Lodash bundles with Webpack and Babel / 2018. 03. 20](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
 - [Tree shake Lodash with Webpack, Jest and Typescript / 2017. 06. 19](https://medium.com/@martin_hotell/tree-shake-lodash-with-webpack-jest-and-typescript-2734fa13b5cd)
 
+## Babel
+- [NodeJS로 ES6 코드 실행하기](https://www.daleseo.com/js-babel-node/)
+
 ## ECMA Script
 - [A practical guide to Javascript Proxy / 2019. 05. 16](https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0)
 - [Why I've stopped exporting defaults from my JavaScript modules / 2019. 01. 15](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
