@@ -148,3 +148,6 @@
 
 ## MDN
 - [Location](https://developer.mozilla.org/ko/docs/Web/API/Location)
+
+## Etc
+- [개발자와 명상 / 2020. 03. 24](https://blog.shiren.dev/)
