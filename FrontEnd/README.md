@@ -83,6 +83,7 @@
 ## Html
 - [Using ARIA / 2018. 09. 27](https://www.w3.org/TR/using-aria/#rule1)
 - [Cropping Images in CSS With object-fit](https://alligator.io/css/cropping-images-object-fit/)
+- [되돌아보는 index.html - Part 1 / 2020. 02. 13](https://so-so.dev/web/index-html-1/)
 
 ## Resource
 - [data URL vs Image file / 2018. 01. 07](https://mygumi.tistory.com/282)
