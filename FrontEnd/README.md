@@ -1,6 +1,8 @@
 # Front End Articles
 
 ## Network
+- [CORS 이슈 해결 / 2020. 02. 16](https://vvshinevv.tistory.com/61)
+- [CORS 크로스 도메인 이슈 / 2018. 05. 11](https://ooz.co.kr/232)
 - [REST API 액세스 토큰(access token)](https://docs.iamport.kr/tech/access-token)
 - [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](cfzero-qa2.game.onstove.com/sea)
 
