@@ -76,6 +76,9 @@
 - [라우트 메타 필드](https://router.vuejs.org/kr/guide/advanced/meta.html)
 - [Tips for building fast and light Vue.js SPA](https://www.binarcode.com/blog/tips-for-building-lighter-and-more-performant-vuejs-spa/)
 
+# SSR
+- [검색엔진 최적화 개선](https://yamoo9.gitbook.io/vue-a11y-seo/seo)
+
 ## Css
 - [CSS Houdini의 실용적 개요 / 2020. 03. 19](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
 - [Sass(SCSS) 완전 정복! / 2018. 01](https://heropy.blog/2018/01/31/sass/)
