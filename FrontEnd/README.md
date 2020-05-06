@@ -20,7 +20,8 @@
 ## git
 - [Git 계정 여러 개 동시 사용하기 / 2019. 06. 08](https://blog.outsider.ne.kr/1448)
 - [A successful Git branching model / 2010. 01. 05.](https://nvie.com/posts/a-successful-git-branching-model/)
-= [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
+- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
+- [GitHub 환경에서의 실전 Git 레시피 / 2017. 07. 11](https://meetup.toast.com/posts/116)
 
 ## Webpack
 - [프론트엔드 개발환경의 이해: 웹팩(기본 / 2019. 12. 10.)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
