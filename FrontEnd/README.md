@@ -47,6 +47,7 @@
 - [다양한 즉시실행함수 호출패턴 / 2016](https://webclub.tistory.com/185)
 - [Perpetual Currying in JavaScript / 2019. 02. 18](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
 - [The features of ES2020 (stage 4 proposals)](https://2ality.com/2019/12/ecmascript-2020.html)
+- [120 개의 선호하는 JavaScript 유틸리티](https://1loc.dev/)
 
 ## Regular Expressions
 - [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
