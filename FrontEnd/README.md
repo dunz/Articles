@@ -51,6 +51,7 @@
 
 ### Vue
 - [Vue 렌더링 성능 개선하기 / 2019. 09. 02](https://velog.io/@kyusung/vue-rendering-optimization)
+- [Render Functions & JSX](https://vuejs.org/v2/guide/render-function.html)
 
 ## Regular Expressions
 - [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
