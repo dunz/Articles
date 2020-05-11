@@ -49,6 +49,9 @@
 - [The features of ES2020 (stage 4 proposals)](https://2ality.com/2019/12/ecmascript-2020.html)
 - [120 개의 선호하는 JavaScript 유틸리티](https://1loc.dev/)
 
+### Vue
+- [Vue 렌더링 성능 개선하기 / 2019. 09. 02](https://velog.io/@kyusung/vue-rendering-optimization)
+
 ## Regular Expressions
 - [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
 - [정규표현식 전후방 탐색 2012. 12. 27](https://blog.hexabrain.net/205)
