@@ -56,6 +56,7 @@
 ## Regular Expressions
 - [정규 표현식 2019. 08. 10](https://velog.io/@koseungbin/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D)
 - [정규표현식 전후방 탐색 2012. 12. 27](https://blog.hexabrain.net/205)
+- [Stateful vs. Functional Component Benchmark](https://codesandbox.io/s/vue-stateful-vs-functional-yterr?file=/src/components/FunctionalLi.vue)
 
 ## Type Script
 - [Indexing objects in TypeScript / 2019. 05. 21](https://dev.to/kingdaro/indexing-objects-in-typescript-1cgi)
