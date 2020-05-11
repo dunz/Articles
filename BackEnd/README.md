@@ -10,5 +10,8 @@
 - [Curveball - A typescript microframework / 2020. 02. 27](https://evertpot.com/curveball-typescript-framework-update/)
 - [2020 년 Node.js의 새로운 기능 / 2019. 12. 04](https://developer.okta.om/blog/2019/12/04/whats-new-nodejs-2020)
 
+## Deno
+- [Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
+
 ## AWS
 - [AWS Application Load Balancer algorithms / 2020. 04. 01](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
