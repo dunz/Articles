@@ -68,6 +68,7 @@
 - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 - [Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+- [clean-code-typescript](https://github.com/738/clean-code-typescript)
 
 ## Vue
 - [How to Use Nested Slots in Vue (including scoped slots) / 2019. 08](https://michaelnthiessen.com/nested-slots-in-vue)
