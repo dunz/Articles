@@ -70,6 +70,7 @@
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 - [clean-code-typescript](https://github.com/738/clean-code-typescript)
 - [Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
+- [TypeScript에서 Type을 기술하는 두 가지 방법, Interface와 Type Alias](https://joonsungum.github.io/post/2019-02-25-typescript-interface-and-type-alias/)
 
 ## Vue
 - [How to Use Nested Slots in Vue (including scoped slots) / 2019. 08](https://michaelnthiessen.com/nested-slots-in-vue)
