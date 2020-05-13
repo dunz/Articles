@@ -69,7 +69,7 @@
 - [Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 - [clean-code-typescript](https://github.com/738/clean-code-typescript)
-- [Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types)
+- [Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
 
 ## Vue
 - [How to Use Nested Slots in Vue (including scoped slots) / 2019. 08](https://michaelnthiessen.com/nested-slots-in-vue)
