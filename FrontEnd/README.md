@@ -17,12 +17,6 @@
 - [[NodeJS] 모두 알지만 모두 모르는 package.json / 2015. 11. 28](https://programmingsummaries.tistory.com/385)
 - [Types of dependencies](https://classic.yarnpkg.com/en/docs/dependency-types/)
 
-## git
-- [Git 계정 여러 개 동시 사용하기 / 2019. 06. 08](https://blog.outsider.ne.kr/1448)
-- [A successful Git branching model / 2010. 01. 05.](https://nvie.com/posts/a-successful-git-branching-model/)
-- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
-- [GitHub 환경에서의 실전 Git 레시피 / 2017. 07. 11](https://meetup.toast.com/posts/116)
-
 ## Webpack
 - [프론트엔드 개발환경의 이해: 웹팩(기본 / 2019. 12. 10.)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
 - [How to Reduce Your Vue.JS Bundle Size With Webpack / 2019. 03](https://medium.com/js-dojo/how-to-reduce-your-vue-js-bundle-size-with-webpack-3145bf5019b7)
@@ -134,12 +128,16 @@
 - [Best kept Jest secret: Testing only changed files with coverage reports](https://medium.com/@stipsan/best-kept-jest-secret-testing-only-changed-files-with-coverage-reports-3affc8b4d30f)
 
 ## Git
+- [Git 계정 여러 개 동시 사용하기 / 2019. 06. 08](https://blog.outsider.ne.kr/1448)
 - [husky로 손쉽게 git hook 관리하기 / 2018. 08. 20.](https://www.huskyhoochu.com/npm-husky-the-git-hook-manager/)
 - [훅으로 Git에 훅 들어가기 / 2017. 07. 12.](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+- [GitHub 환경에서의 실전 Git 레시피 / 2017. 07. 11](https://meetup.toast.com/posts/116)
 - [Git hook when a new branch is created and/or pushed / 2017](https://stackoverflow.com/questions/14297606/git-hook-when-a-new-branch-is-created-and-or-pushed)
 - [Git: Git hooks 적용하기 / 2014. 02. 18.](https://ohgyun.com/639)
 - [Git: pre-commit 훅에서 변경된 파일 확인하기. 2014. 02. 14.](https://ohgyun.com/630)
+- [A successful Git branching model / 2010. 01. 05.](https://nvie.com/posts/a-successful-git-branching-model/)
 - [3.6 Git 브랜치 - Rebase 하기](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Rebase-%ED%95%98%EA%B8%B0)
+- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)
 
 ## Interview
 - [프론트엔드 개발자 인터뷰 후기 면접질문 정리 / 2018. 11. 17](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
