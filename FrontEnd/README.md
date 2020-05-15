@@ -176,3 +176,5 @@
 
 ## Etc
 - [개발자와 명상 / 2020. 03. 24](https://blog.shiren.dev/)
+- [favorite JavaScript utilities](https://1loc.dev/)
+
