@@ -1,6 +1,7 @@
 # Front End Articles
 
 ## Network
+- [CORS는 왜 이렇게 우리를 힘들게 하는걸까? / 2020. 05. 21](https://evan-moon.github.io/2020/05/21/about-cors/)
 - [CORS 이슈 해결 / 2020. 02. 16](https://vvshinevv.tistory.com/61)
 - [실시간 데이터 송신의 진화 : 폴링 방식, 롱폴링 방식, 웹소켓 / 2018. 08. 06](https://valuefactory.tistory.com/263)
 - [CORS 크로스 도메인 이슈 / 2018. 05. 11](https://ooz.co.kr/232)
