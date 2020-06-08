@@ -13,10 +13,12 @@
 - [나도 오늘부터 FE성능 전문가!](https://sculove.github.io/slides/tobeAnAnalyst/#/1)
 
 ## npm
+- [Three Things You Didn't Know You Could Do with npm Scripts / 2020. 03. 03](https://www.twilio.com/blog/npm-scripts)
 - [What are peer dependencies in a Node module? 2019. 12. 12](https://flaviocopes.com/npm-peer-dependencies/)
 - [package-lock.json은 왜 필요할까? / 2018. 03. 23](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json / 2015. 11. 28](https://programmingsummaries.tistory.com/385)
 - [Types of dependencies](https://classic.yarnpkg.com/en/docs/dependency-types/)
+= [private npm registry 구축 :: 마이구미 / 2020. 03. 28](https://mygumi.tistory.com/371)
 
 ## Webpack
 - [프론트엔드 개발환경의 이해: 웹팩(기본 / 2019. 12. 10.)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
@@ -80,6 +82,9 @@
 - [Vue 앱 접근성/SEO 가이드북](https://yamoo9.gitbook.io/vue-a11y-seo/)
 - [라우트 메타 필드](https://router.vuejs.org/kr/guide/advanced/meta.html)
 - [Tips for building fast and light Vue.js SPA](https://www.binarcode.com/blog/tips-for-building-lighter-and-more-performant-vuejs-spa/)
+
+## Nuxt
+- [PM2, Nginx 사용해서 Nuxt.js 애플리케이션 배포 / 2019. 12. 07](https://jhyeok.com/nuxtjs-pm2-nginx/)
 
 # SSR
 - [검색엔진 최적화 개선](https://yamoo9.gitbook.io/vue-a11y-seo/seo)

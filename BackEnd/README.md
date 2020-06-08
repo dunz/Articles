@@ -9,6 +9,7 @@
 - [How to quickly build an API using Node.js & PostgreSQL / 2020. 02. 20](https://www.enterprisedb.com/postgres-tutorials/how-quickly-build-api-using-nodejs-postgresql?utm_source=Cooperpress&utm_medium=ad)
 - [Curveball - A typescript microframework / 2020. 02. 27](https://evertpot.com/curveball-typescript-framework-update/)
 - [2020 년 Node.js의 새로운 기능 / 2019. 12. 04](https://developer.okta.om/blog/2019/12/04/whats-new-nodejs-2020)
+- [Node.js (Express Framework) 앞단에 Nginx 사용하기 / 2012. 03. 17](https://valuefactory.tistory.com/165)
 
 ## Deno
 - [Deno 배우기 : 채팅 앱 / 2020. 05. 10](https://dev.to/aralroca/learn-deno-chat-app-37f0)
