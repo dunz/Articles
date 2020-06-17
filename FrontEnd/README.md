@@ -86,6 +86,7 @@
 
 ## Nuxt
 - [PM2, Nginx 사용해서 Nuxt.js 애플리케이션 배포 / 2019. 12. 07](https://jhyeok.com/nuxtjs-pm2-nginx/)
+- [Vue 라우터를 사용한 Nuxt.js 동적 및 중첩 라우팅 / 2019. 07. 08](https://ednsquare.com/story/nuxt-js-dynamic-nested-routing-with-vue-router------EXBBRt)
 
 # SSR
 - [검색엔진 최적화 개선](https://yamoo9.gitbook.io/vue-a11y-seo/seo)
