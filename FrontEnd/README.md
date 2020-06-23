@@ -72,9 +72,11 @@
 
 ## Vue
 - [How to Use Nested Slots in Vue (including scoped slots) / 2019. 08](https://michaelnthiessen.com/nested-slots-in-vue)
+- [(Vue.js) re-rendering 안되는 경우 / 2019. 03. 14](https://medium.com/@yeon22/vue-%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0-2d5f1934c44e)
 - [Getting Started with Vue CLI 3.x / 2018. 12. 25](https://stackabuse.com/getting-started-with-vue-cli-3-x/)
 - [Using v-model on Nested Vue Components / 2018. 11. 06](https://zaengle.com/blog/using-v-model-on-nested-vue-components)
 - [5 Tips to Get More Out of Your Vue CLI App / 2018. 10. 18](https://gofore.com/en/5-tips-to-get-more-out-of-vue-cli/)
+- [The correct way to force Vue to re-render a component / 2018. 09](https://michaelnthiessen.com/force-re-render/)
 - [Build a Basic CRUD App with Vue.js and Node / 2018. 02. 15](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 - [Model-based Form Validation with Vue.js and Vuelidate / 2017. 02. 15](https://alligator.io/vuejs/model-form-validation-vuelidate/)
 - [Vue.js + TypeScript 앱에서 IoC 컨테이너 사용하기 / 2017. 03. 21](https://blog.aliencube.org/ko/2017/03/21/using-ioc-container-in-vuejs-typescript-app/)
